@@ -2,6 +2,8 @@
 
 Render company buttons dynamically and sync company buttons with job descriptions.
 
+[Live Demo](https://christy313.github.io/react15-project06)
+
 ![](./public/06-tabs.gif)
 
 Ref: [Portfolio](https://gatsby-strapi-portfolio-project.netlify.app/)
